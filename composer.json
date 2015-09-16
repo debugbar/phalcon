@@ -1,0 +1,11 @@
+{
+    "name": "debugbar/phalcon",
+    "description": "alias of snowair/phalcon-debugbar",
+    "authors": [
+        {
+            "name": "snowair",
+            "email": "xcoolcc@gmail.com"
+        }
+    ],
+    "require": {}
+}
