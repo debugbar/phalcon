@@ -7,5 +7,7 @@
             "email": "xcoolcc@gmail.com"
         }
     ],
-    "require": {}
+    "replace": {
+        "snowair/phalcon-debugbar":"self.version"
+    }
 }
